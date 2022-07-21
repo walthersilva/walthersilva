@@ -1,4 +1,5 @@
-### Olá, sou Walther Silva e estou em transição de carreira para o mundo da Tecnologia como Desenvolvedor Front-End.
+### Olá, sou Walther Silva 👋
+Estou em transição de carreira para o mundo da Tecnologia como Desenvolvedor Android em Kotlin.
 
 <!--
 **walthersilva/walthersilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
